@@ -1,0 +1,9 @@
+default_connection_name = "my-snowflake"
+
+[my-snowflake]
+account = "<ACCOUNT_IDENTIFIER>"
+host = "<ACCOUNT_IDENTIFIER>.snowflakecomputing.com"
+user = "<USERNAME>"
+role = "<ROLE_NAME>"
+warehouse = "<WAREHOUSE_NAME>"
+password = "<PASSWORD_OR_TOKEN>"
